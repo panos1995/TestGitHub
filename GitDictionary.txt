@@ -35,4 +35,4 @@ Working copy > staging area > Repo
 when finish edititing just git add your modified file
 and commit them
 
-test
+7) git diff to see the differences ( Shift Q or just Q to exit at windos gitbash)
