@@ -33,3 +33,6 @@ Working copy > staging area > Repo
 6) editing
 
 when finish edititing just git add your modified file
+and commit them
+
+test
