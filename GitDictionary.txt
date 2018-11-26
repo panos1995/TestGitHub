@@ -73,5 +73,5 @@ git remote "nickname" "linkofgithubrepo"
 
 git clone "url"
 
-16)
+16) "test git windows"
 
