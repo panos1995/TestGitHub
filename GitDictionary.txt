@@ -14,7 +14,7 @@ git init
 
 git add . (. means folder) (git knows you change something)
 
-git commit -m "message" (Saves the project in order to use after we can use it to retrieve this version of our project)
+git commit -m "message" (Saves the project in order to use after we can use it to retrieve this version of our project) get snaptime
 
 4) Log
 
@@ -35,4 +35,10 @@ Working copy > staging area > Repo
 when finish edititing just git add your modified file
 and commit them
 
-7) git diff to see the differences ( Shift Q or just Q to exit at windos gitbash)
+7) git diff 
+git diff to see the differences ( Shift Q or just Q to exit at windos gitbash
+differences between working coppy and respository
+
+8) delete files
+
+git rm "file name" deletes from local we need to commit also to remove it from the rep
