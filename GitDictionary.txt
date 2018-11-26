@@ -54,5 +54,5 @@ git checkout -- index.html
 
 11) unstage files from staging area
 
-git reset HEAD filename
+git reset HEAD filename_
 
