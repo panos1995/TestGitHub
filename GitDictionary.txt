@@ -56,3 +56,22 @@ git checkout -- index.html
 
 git reset HEAD filename
 
+12) retrieve older version of file
+
+git log to see the id of the version that we want to retrieve
+
+git checkout "id or first letters of id -- "filename"
+git commit -m "message"
+
+13) make connection and remote
+
+git remote "nickname" "linkofgithubrepo"
+
+14) add files to repo (push)
+
+15) clone a repo
+
+git clone "url"
+
+16)
+
