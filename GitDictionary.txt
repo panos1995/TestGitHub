@@ -42,3 +42,17 @@ differences between working coppy and respository
 8) delete files
 
 git rm "file name" deletes from local we need to commit also to remove it from the rep
+
+9) rename files and move
+
+git mv filename filename2
+git mv filename folder
+
+10) retrives from respository and add it to working copy
+
+git checkout -- index.html
+
+11) unstage files from staging area
+
+git reset HEAD filename
+
